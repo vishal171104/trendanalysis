@@ -1,0 +1,21 @@
+ID,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Season,Review Rating,Previous Purchases,Frequency of Purchases,Vendor Name,Dimensions,Warehouse Name,Profit Margins (%)
+1,Male,Shirt,Clothing,31,Illinois,L,Spring,2.6,10,Every 3 Months,Vendor D,14x20x17 cm,Warehouse A,42.51
+2,Male,Hoodie,Clothing,50,Hawaii,L,Summer,2.9,16,Bi-Weekly,Vendor C,48x31x12 cm,Warehouse B,32.29
+3,Male,Sneakers,Footwear,36,Vermont,L,Summer,4.7,48,Quarterly,Vendor H,36x38x11 cm,Warehouse C,38.72
+4,Female,Blouse,Clothing,72,Texas,L,Winter,3.2,28,Weekly,Vendor G,49x16x18 cm,Warehouse D,18.93
+5,Male,Skirt,Clothing,38,Kentucky,M,Fall,4.4,27,Annually,Vendor E,38x48x13 cm,Warehouse E,12.46
+6,Male,Socks,,36,Nebraska,M,Summer,,3.5,,37,Fornightly,Vendor E,,31x27x20 cm,,Warehouse E,,24.7
+7,Male,Pants,,83,,M,,3.3,,4,,Every 3 Months,Vendor C,,45x30x11 cm,,Warehouse E,,6.39
+8,Male,Hoodie,,70,,L,Fall,,3.2,,36,,Every 3 Months,Vendor G,,47x43x9 cm,,Warehouse E,,16.91
+9,Female,,Jeans,,41,,Alabama,,,M,Fall,,,4.3,,,36,,,Every 3 Months,Vendor A,,33x25x5 cm,,Warehouse E,,8.65
+10,Male,,,Coat,,,46,,,New Hampshire,,,S,,,Fall,,,2.6,,,48,,,Annually,,,Vendor G,,,26x37x6 cm,,,Warehouse E,,,7.5
+11,Male,Belt,,Accessories,,83,,New York,,,M,Fall,,,3.9,,,6,Bi-Weekly,Vendor D,,16x11x14 cm,,Warehouse E,,29.79
+12,Male,GLOVES,,,,37,,,Utah,,,,M,Fall,,,,3.9,,,,44,,,,Annually,VENDOR H,,,,22x15x17 cm,,Warehouse E,,,,17.54
+13,Female,,,,Shirt,,,34,Kansas,M,,,,Spring,,,2.7,,,,1,,,,Quarterly,VENDOR H,,,,38x46x9 cm,,Warehouse E,,,,23.63
+14,Female,HAND BAG,,,Accessories,,,48,colorado,m,spring,,,4.3,,,16,every 3 months,vendor c,,,46x34x14 cm,,Warehouse E,,,,27.26
+15,Female,HAND BAG,,,Accessories,,,29,Kentucky,S,Fall,,,3.8,,,23 Monthly Vendor B 43x32x8 cm Warehouse E 49.47
+16,Male,Sunglasses,,Accessories,,82,M,Summer,,2.6,,17 Quarterly Vendor H 33x33x6 cm Warehouse E 34.92
+17,Female,Hoodie,,Clothing,,25,M,Summer 4.8 45 Annually Vendor H 40x35x19 cm Warehouse E 30.51
+18,Male,Hoodie,,Outerwear,,53 New York L Winter 4.7 34 Weekly Vendor E 20x15x14 cm Warehouse E 39.75
+19,Male,T-SHIRT,CLOTHING,,84,Nebraska,M,Winter ,,4.9 ,,15 Annually Vendor B 28x47x7 cm Warehouse E 47.07
+20,Female,Sweater,CLOTHING ,,31 Indiana S WINTER ,4 .9 ,11 ,Every 3 Months Vendor B ,13 x25 x7cm ,Warehouse E ,26 .61 

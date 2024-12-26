@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropshipping Assistant</title>
+    <link rel="stylesheet" href="sty.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <div class="logo">DropShip+</div>
+        <ul>
+            <li><a href="#about"><i class="fas fa-info-circle"></i> About</a></li>
+            <li><a href="#analyze"><i class="fas fa-search"></i> Analyze</a></li>
+            <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
+            <li><a href="#location"><i class="fas fa-map-marker-alt"></i> Location</a></li>
+        </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <header class="header">
+            <h1>Dropshipping Assistant</h1>
+            <p>Analyze products, find vendors, and optimize profits with ease.</p>
+        </header>
+
+        <!-- About Section -->
+        <section id="about">
+            <h2>About Us</h2>
+            <p>
+                DropShip+ is your one-stop solution for analyzing product trends, finding reliable vendors, 
+                and optimizing your warehouse operations. Designed for aspiring dropshippers, our tool offers 
+                insights into trending products and profitability.
+            </p>
+        </section>
+
+        <!-- Analyze Section -->
+        <section id="analyze">
+            <h2>Analyze Your Product</h2>
+            <div class="form-container">
+                <input type="text" id="product-name" placeholder="Enter Product Name (e.g., Headphones)">
+                <button id="analyze-btn">Analyze</button>
+            </div>
+            <div class="results-container hidden" id="results-container">
+                <h2>Results</h2>
+                <p><strong>Product Name:</strong> <span id="result-product-name"></span></p>
+                <p><strong>Trending:</strong> <span id="result-trending"></span></p>
+                <p><strong>Profit Margin:</strong> <span id="result-profit-margin"></span></p>
+                <p><strong>Available Warehouse Space:</strong> <span id="result-warehouse-space"></span></p>
+                <h3>Vendors</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Vendor</th>
+                            <th>Rating</th>
+                            <th>Location</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vendor-list"></tbody>
+                </table>
+                <button id="reset-btn">Analyze Another Product</button>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: support@dropshipplus.com</p>
+            <p>Phone: +1-234-567-890</p>
+        </section>
+
+        <!-- Location Section -->
+        <section id="location">
+            <h2>Our Location</h2>
+            <p>123 Business Avenue, Dropship City, DS 56789</p>
+        </section>
+    </div>
+    <script src="ri.js"></script>
+</body>
+</html>

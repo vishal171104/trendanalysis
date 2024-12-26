@@ -1,0 +1,6 @@
+ID,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Season,Review Rating,Previous Purchases,Frequency of Purchases,Vendor Name,Dimensions,Warehouse Name,Profit Margins (%)
+1,Male,Shirt,Clothing,31,Illinois,L,Spring,2.6,10,Every 3 Months,Vendor D,14x20x17 cm,Warehouse A,42.51
+2,Male,Hoodie,Clothing,50,Hawaii,L,Summer,2.9,16,Bi-Weekly,Vendor C,48x31x12 cm,Warehouse B,32.29
+3,Male,Sneakers,Footwear,36,Vermont,L,Summer,4.7,48,Quarterly,Vendor H,36x38x11 cm,Warehouse C,38.72
+4,Female,Blouse,Clothing,72,Texas,L,Winter,3.2,28,Weekly,Vendor G,49x16x18 cm,Warehouse D,18.93
+5,Male,Skirt,Clothing,38,Kentucky,M,Fall,4.4,27,Annually,Vendor E,38x48x13 cm,Warehouse E,12.46
